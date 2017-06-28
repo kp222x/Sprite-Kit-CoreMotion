@@ -1,0 +1,6 @@
+.*
+!/.gitignore
+
+WestLand/WestLand.xcodeproj/
+WestLand/WestLandTests/
+WestLand/WestLandUITests/
